@@ -1,5 +1,4 @@
 <h1 align="center">Hello, I'm Michał!</h1>
-<hr style="width:50%;text-align:center;margin:auto;">
 <h3 align="center">An enthusiastic student of automation and robotics.</h3>
 
 <hr style="border: 2px solid black; width: 80%; margin: auto;">
