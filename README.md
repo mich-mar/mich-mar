@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **markuzel.michal@gmail.com**
 
-- 📄 My linkedin profile: [www.linkedin.com/mmarkuzel/](https://www.linkedin.com/in/mmarkuzel/)
+- 📄 My linkedin profile: **[www.linkedin.com/mmarkuzel/](https://www.linkedin.com/in/mmarkuzel/)**
 
 <br>
 
