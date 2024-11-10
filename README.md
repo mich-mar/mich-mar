@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Michał!</h1>
-<h3 align="center">I am currently studying Automation and Robotics at the Science and Technology University in Wrocław. In addition to my studies, I am gaining practical experience with the PWR Racing Team, a Formula Student team at my university. I also actively learn new programing languages through online courses and enhance my foreign language skills through private lessons.</h3>
+<h4 align="left">I am currently studying Automation and Robotics at the Science and Technology University in Wrocław. In addition to my studies, I am gaining practical experience with the PWR Racing Team, a Formula Student team at my university. I also actively learn new programing languages through online courses and enhance my foreign language skills through private lessons.</h4>
 
 <hr style="border: 2px solid black; width: 80%; margin: auto;">
 
