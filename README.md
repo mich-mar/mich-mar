@@ -9,7 +9,8 @@
 
 - 📄 My linkedin profile: [link](https://www.linkedin.com/in/mmarkuzel/)
 
-![Uploading 1gkL.gif…]()
+
+![1gkL](https://github.com/user-attachments/assets/0d10af3e-d0f7-44a5-8e26-66982aa6f1e1)
 
 
 
