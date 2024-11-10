@@ -36,4 +36,4 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mich-mar&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mich-mar&theme=dark&show_icons=true&hide_border=false&layout=compact)
