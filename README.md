@@ -7,11 +7,14 @@
 
 - 🌱 I’m currently learning: **Python, Java**
 
+- 💻 My skills include: **Linux, C, C++, Bash**
+
 - 📫 How to reach me: **markuzel.michal@gmail.com**
 
 - 📄 My linkedin profile: **[www.linkedin.com/mmarkuzel/](https://www.linkedin.com/in/mmarkuzel/)**
 
 <br>
+
 
 ![2vDa](https://github.com/user-attachments/assets/7cf73005-c07b-43bb-9e30-41bb73de5b78)
 
