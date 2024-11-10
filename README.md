@@ -9,9 +9,8 @@
 
 - 📄 My linkedin profile: [link](https://www.linkedin.com/in/mmarkuzel/)
 
-
-![1gkL](https://github.com/user-attachments/assets/0d10af3e-d0f7-44a5-8e26-66982aa6f1e1)
-
+<align="center">
+![2vDa](https://github.com/user-attachments/assets/7cf73005-c07b-43bb-9e30-41bb73de5b78)
 
 
 <h3 align="left">Languages and Tools:</h3>
