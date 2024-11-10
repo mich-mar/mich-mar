@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **Python, Java**
 
-- 💻 My skills include: **Linux, C, C++, Bash**
+- 💻 My skills include: **C, C++, Bash, Linux**
 
 - 📫 How to reach me: **markuzel.michal@gmail.com**
 
