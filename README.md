@@ -32,5 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </p>
 
-# 📊 GitHub Stats:
+<hr style="border: 2px solid black; width: 80%; margin: auto;">
+
+<h3 align="left">GitHub Stats:</h3>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mich-mar&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
