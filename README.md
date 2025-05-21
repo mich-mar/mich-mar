@@ -3,7 +3,7 @@
 
 <hr style="border: 2px solid black; width: 80%; margin: auto;">
 
-- 🔭 I’m currently working on: **Lap Timer in Embedded Environment**
+- 🔭 I’m currently working on: **Manipulator 6 DOF**
 
 - 🌱 I’m currently learning: **Python, Java**
 
