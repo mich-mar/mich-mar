@@ -1,5 +1,10 @@
 <h1 align="center">Hello, I'm Michał!</h1>
-<h4 align="left">I am currently studying Automation and Robotics at the Science and Technology University in Wrocław. Alongside my studies, I am developing a personal C++ project focused on 3D rendering and reverse kinematics. I also actively learn new programing languages through online courses and enhance my foreign language skills through private lessons.</h4>
+<h4 align="left">Student of Automation and Robotics at the Wrocław University of Science and Technology,
+combining studies with professional work in the telecommunications sector. Gaining hands-on experience
+in R&D projects for 5G RAN infrastructure, with focus on low-level programming in C
+and C++, code analysis, and version control using Git, Gerrit, and Jira. Actively developing an
+engineering thesis on a 6-DOF manipulator simulated in ROS2 and advancing robotics skills
+through student projects.</h4>
 
 <hr style="border: 2px solid black; width: 80%; margin: auto;">
 
