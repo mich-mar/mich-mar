@@ -10,7 +10,7 @@ through student projects.</h4>
 
 - 🔭 I’m currently working on: **Manipulator 6 DOF**
 
-- 🌱 I’m currently learning: **Python, Java**
+- 🌱 I’m currently learning: **C, C++, Python**
 
 - 💻 My skills include: **C, C++, Bash, Linux**
 
