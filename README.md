@@ -6,7 +6,7 @@ Student of Automation and Robotics at the Wrocław University of Science and Tec
 
 <hr style="border: 2px solid black; width: 80%; margin: auto;">
 
-- 🔭 I’m currently working on: [6-DOF manipulator simulated in ROS2](https://github.com/mich-mar/engeniering_thesis_6dof_manipulator)
+- 🔭 I’m currently working on: <a href="https://github.com/mich-mar/engeniering_thesis_6dof_manipulator">6-DOF manipulator simulated in ROS2</a>
  
 - 🌱 I’m currently learning: **C, C++, Python**
 
