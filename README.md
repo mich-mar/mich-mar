@@ -3,12 +3,12 @@
 combining studies with professional work in the telecommunications sector. Gaining hands-on experience
 in R&D projects for 5G RAN infrastructure, with focus on low-level programming in C
 and C++, code analysis, and version control using Git, Gerrit, and Jira. Actively developing an
-engineering thesis on a 6-DOF manipulator simulated in ROS2 [LINK](https://github.com/mich-mar/6dof-manipulator) and advancing robotics skills
+engineering thesis on a 6-DOF manipulator simulated in ROS2 [LINK](https://github.com/mich-mar/engeniering_thesis_6dof_manipulator) and advancing robotics skills
 through student projects.</h4>
 
 <hr style="border: 2px solid black; width: 80%; margin: auto;">
 
-- 🔭 I’m currently working on: [6-DOF manipulator simulated in ROS2](https://github.com/mich-mar/6dof-manipulator)
+- 🔭 I’m currently working on: ([6-DOF manipulator simulated in ROS2](https://github.com/mich-mar/engeniering_thesis_6dof_manipulator)
  
 - 🌱 I’m currently learning: **C, C++, Python**
 
