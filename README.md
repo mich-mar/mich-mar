@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Michał!</h1>
-<h4 align="left">Student of Automation and Robotics at the Wrocław University of Science and Technology,
+Student of Automation and Robotics at the Wrocław University of Science and Technology,
 combining studies with professional work in the telecommunications sector. Gaining hands-on experience
 in R&D projects for 5G RAN infrastructure, with focus on low-level programming in C
 and C++, code analysis, and version control using Git, Gerrit, and Jira. Actively developing an
